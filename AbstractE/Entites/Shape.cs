@@ -6,6 +6,7 @@ namespace AbstractE.Entites
     {
         public Color Color { get; set; }
 
+
         public Shape(Color color)
         {
             Color = color;

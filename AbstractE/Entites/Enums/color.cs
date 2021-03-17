@@ -4,10 +4,10 @@ using System.Text;
 
 namespace AbstractE.Entites.Enums
 {
-    enum Color : int
+    enum Color 
     {
-        Blac 1,
-        Blue 2,
-        Red 3
+        Blac,
+        Blue,
+        Red 
     }
 }
